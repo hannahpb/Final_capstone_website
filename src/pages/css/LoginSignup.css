@@ -1,0 +1,44 @@
+
+.full-header{
+    background-color:#17A2B8;
+    /* height: 100%; */
+ 
+
+}
+
+
+
+.btn3 {
+    background-color: #FFFFFF;
+    border-radius:25px;
+    border: none;
+    text-align: center;
+    font-size: 25px;
+    cursor: pointer;
+    width:350px;
+    height:70px;
+    margin-top:350px;
+    margin-left:500px;
+    font-family:"monospace"
+
+}
+
+.btn1 {
+    background-color: #FFFFFF;
+    border-radius:25px;
+    border: none;
+    text-align: center;
+    font-size: 25px;
+    cursor: pointer;
+    width:350px;
+    height:70px;
+    margin-top:50px;
+    margin-left:500px;
+    font-family:"monospace"
+
+}
+
+.image-background{
+    margin-left: 60%;
+    margin-top: -30%;
+}

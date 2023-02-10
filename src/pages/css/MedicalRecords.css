@@ -1,0 +1,52 @@
+.full-body{
+    background-color:#17A2B8;
+    height: 729px;
+}
+
+.record-text{
+    color:white;
+    font-family: monospace;
+    font-size: 30px;
+    margin-left: 150px;
+    margin-top: -45px;
+}
+
+.medical-image{
+    margin-left: -100px;
+    margin-top: 100px;
+}
+
+.list-medical{
+    font-family: monospace;
+    font-size: 40px;
+    
+}
+.cbc{
+    color: white;
+    padding-left: 55%;
+    margin-top: -560px;
+}
+
+.xray{
+    color: white;
+    padding-left: 55%;
+    margin-top: 25px;
+}
+
+.hepa{
+    color: white;
+    padding-left: 55%;
+    margin-top: 25px;
+}
+
+.ecg{
+    color: white;
+    padding-left: 55%;
+    margin-top: 25px;
+}
+
+.urin{
+    color: white;
+    padding-left: 55%;
+    margin-top: 25px;
+}

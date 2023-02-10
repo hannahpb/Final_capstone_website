@@ -1,0 +1,41 @@
+.navbar{
+    background: linear-gradient(
+      to right,
+      #6096B4,
+      #93BFCF,
+      #BDCDD6,
+      #7B8FA1,
+      #E3F6FF,
+      #A0C3D2
+    );
+    background-size: 400% 400%;
+    animation: body 10s infinite ease-in-out;
+  }
+  
+  @keyframes body {
+    0% {
+      background-position: 0 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0 50%;
+    }
+  }
+
+.table{
+    text-align: center;
+}
+
+.userdata{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    font-size: 40px;
+    font-weight: bold;
+    background: -webkit-linear-gradient(#267eaa, #0b556f);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-left: 100px;
+  text-align: center;
+}

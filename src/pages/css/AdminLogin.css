@@ -1,0 +1,20 @@
+.nav-square{
+    width: 100%;
+    border-radius: 1px;
+    background-color: #17A2B8;
+    padding:20px;
+  }
+
+  .btn4{
+    height:40px;
+    width:200px;
+    border:none;
+    border-radius:10px;
+    margin-top:50px;
+    margin-left: 300px;
+    text-align:center;
+    color:white;
+    font-size:20px;
+    background-color: #17A2B8;
+    font-family: monospace;
+  }

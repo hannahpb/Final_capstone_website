@@ -1,0 +1,13 @@
+.search-lastname{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    font-size: 40px;
+    font-weight: bold;
+    background: -webkit-linear-gradient(#267eaa, #0b556f);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-left: 100px;
+  text-align: center;
+}
+
+

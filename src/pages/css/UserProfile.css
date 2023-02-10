@@ -1,0 +1,110 @@
+
+
+
+.user-profile-name{
+    color: white;
+    font-size: 30px;
+    font-family: monospace;
+    margin-left: 150px;
+    margin-top: -55px;
+    
+}
+
+.user-profile-email{
+    color: white;
+    font-size: 30px;
+    font-family: monospace;
+    margin-left: 150px;
+    margin-top: -10px;
+    
+}
+
+.content-name{
+    font-weight: 100px;
+    font-size: 32px;
+    color: #80868B;
+    padding-left: 500px;
+    font-family: sans-serif;
+}
+
+.content-preference{
+    font-weight: 100px;
+    font-size: 32px;
+    color: #80868B;
+    padding-left: 500px;
+    margin-top: -150px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    background: -webkit-linear-gradient(#267eaa, #0b556f);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+
+.title-section{
+    margin-top: 50px;
+}
+
+.title-sec{
+    margin-top: 50px;
+}
+
+.card-section{
+    border: 10px;
+    width: 380px;
+    height: 60px;
+    overflow: hidden;
+    box-shadow: 0px 4px 10px -1px;
+    margin-left: 650px;
+    margin-top: 40px;
+
+}
+
+.card-section-one{
+    border: 10px;
+    width: 380px;
+    height: 60px;
+    overflow: hidden;
+    box-shadow: 0px 4px 10px -1px;
+    margin-left: 650px;
+    margin-top: 40px;
+
+}
+
+.card-section-two{
+    border: 10px;
+    width: 380px;
+    height: 60px;
+    overflow: hidden;
+    box-shadow: 0px 4px 10px -1px;
+    margin-left: 650px;
+    margin-top: 40px;
+
+}
+
+.card-image{
+    margin-left: 10px;
+}
+
+.card-image-two{
+    margin-left: 10px;
+}
+
+.card-image-three{
+    margin-left: 10px;
+}
+
+.userprofile{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    font-weight: bold;
+    background: -webkit-linear-gradient(#267eaa, #0b556f);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 30px;
+  padding-right: 80%;
+
+
+
+
+}
